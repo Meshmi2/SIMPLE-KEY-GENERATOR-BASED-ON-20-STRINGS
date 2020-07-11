@@ -1,0 +1,11 @@
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\bin\Debug\Create-Your-Serial-And-Test-.exe.config
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\bin\Debug\Create-Your-Serial-And-Test-.exe
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\bin\Debug\Create-Your-Serial-And-Test-.pdb
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\obj\Debug\Create-Your-Serial-And-Test-.csprojAssemblyReference.cache
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\obj\Debug\Create-Your-Serial-And-Test-.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\obj\Debug\Create-Your-Serial-And-Test-.exe
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\obj\Debug\Create-Your-Serial-And-Test-.pdb
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\bin\Debug\Create-Your-Serial-And-Test-.exe.manifest
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\bin\Debug\Create-Your-Serial-And-Test-.application
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\obj\Debug\Create-Your-Serial-And-Test-.exe.manifest
+C:\Users\meshmi\source\repos\Create-Your-Serial-And-Test-\obj\Debug\Create-Your-Serial-And-Test-.application
